@@ -1,0 +1,5 @@
+.cache
+.idea
+.testmondata
+.vscode
+__pycache__
